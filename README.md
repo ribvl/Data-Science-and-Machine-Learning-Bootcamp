@@ -1,6 +1,6 @@
 # Python for Data Science and Machine Learning Bootcamp
 Projects and exercises done for [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/).
-All exercises were created by Jose Marcial Portilla, copyright by Pierian Data Inc, for the course. 
+All exercises from this course were created by Jose Marcial Portilla, copyright by Pierian Data Inc.
 
 Libraries:
 * Pandas
